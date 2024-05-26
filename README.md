@@ -23,3 +23,7 @@ The proposed framework achieved an accuracy of 79% in classifying student perfor
 We plan on improving the efficiency of student performance analysis by providing technical solutions, such as dynamic user interaction models and alert systems for low-performing students. And also propose exploring neural networks and incorporating non-academic attributes for better prediction.
 
 The journal paper presents a comprehensive approach to student performance analysis by combining various data sources and leveraging machine learning techniques. It highlights the potential of data-driven methods in educational settings for identifying struggling students and providing targeted interventions.
+
+
+
+## Note: The output screenshots are available at the end of documentation file. All the code files got misplaced.
